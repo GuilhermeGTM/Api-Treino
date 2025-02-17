@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/GuilhermeGTM/ProjetoFilmes/blob/main/LICENSE) 
 
 # Sobre o projeto
-Foi usado uma API com GET,POST,PUT para gerenciar uma aplicação em flet
+Foi criado uma API com os metodos HTTP GET,POST,PUT para gerenciar uma aplicação em flet
 
 ## Layout web
 ![Web 1](https://github.com/GuilhermeGTM/Api-Treino/blob/main/GitHubMidia/1.png)
