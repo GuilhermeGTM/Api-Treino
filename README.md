@@ -90,12 +90,7 @@ Permite cadastrar alunos, listar registros, marcar aulas realizadas, consultar p
 
 ---
 
-## 🚀 Como executar
-
-1. Certifique-se de que a **API Django** do projeto `treino` está rodando em:
-
-
-# Como executar o projeto
+## Como executar o projeto
 
 ```bash
 instalar o venv na pasta do projeto
